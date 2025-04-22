@@ -1,0 +1,68 @@
+{
+    "B1": {
+        "Part 1": [
+            "My name is...",
+            "I live in...",
+            "In my free time I like..."
+        ],
+        "Part 2": [
+            "In the picture I can see...",
+            "There are some people who are...",
+            "Maybe they are at..."
+        ],
+        "Part 3": [
+            "I think it is better to...",
+            "It can be useful because...",
+            "One problem might be..."
+        ],
+        "Part 4": [
+            "I agree with that because...",
+            "In my opinion...",
+            "It depends on the situation."
+        ]
+    },
+    "B2": {
+        "Part 1": [
+            "I’m currently studying at...",
+            "In my free time, I usually...",
+            "One thing I enjoy is..."
+        ],
+        "Part 2": [
+            "This picture shows...",
+            "They might be discussing...",
+            "It seems like they are..."
+        ],
+        "Part 3": [
+            "One advantage could be...",
+            "However, some people might say...",
+            "Another important point is..."
+        ],
+        "Part 4": [
+            "I believe that...",
+            "In my opinion, it depends on...",
+            "Personally, I would say..."
+        ]
+    },
+    "C1": {
+        "Part 1": [
+            "I work as a...",
+            "I’ve always been interested in...",
+            "My hobbies include..."
+        ],
+        "Part 2": [
+            "The image appears to show...",
+            "They could be involved in...",
+            "This might be taking place in..."
+        ],
+        "Part 3": [
+            "A key consideration is...",
+            "It’s also worth mentioning that...",
+            "A counterargument would be..."
+        ],
+        "Part 4": [
+            "From my perspective...",
+            "I tend to think that...",
+            "It’s a complex issue, but..."
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "B1": {
+        "Part 1": "Hi! My name is Ana. I’m from Spain. I like playing basketball and watching films. In my free time, I often go for a walk with my dog.",
+        "Part 2": "In the picture, there are two people sitting in a park. They look happy. I think they are talking about their day. Maybe they are friends or classmates.",
+        "Part 3": "I think studying in groups is good because you can share ideas. But sometimes it's difficult if people don’t work together.",
+        "Part 4": "Yes, I like learning English. It helps me understand songs and movies, and I want to travel to England someday."
+    },
+    "B2": {
+        "Part 1": "Hello, my name is Carlos. I live in Madrid. I enjoy reading, especially science fiction books. I also like learning new languages, and English is one of my favourites.",
+        "Part 2": "This photo shows a family in the kitchen. They are probably preparing a meal together. It seems they are enjoying spending time as a family. I think cooking can be a fun activity to do with others.",
+        "Part 3": "Working from home has many advantages like saving time and being more flexible. However, some people may feel lonely or distracted more easily.",
+        "Part 4": "Yes, I believe technology is essential in education today. It offers access to many resources and allows people to learn at their own pace."
+    },
+    "C1": {
+        "Part 1": "Good afternoon, my name is Sofia. I’m currently studying architecture, and in my spare time, I enjoy attending exhibitions and sketching buildings. I also practise yoga to relax.",
+        "Part 2": "In this image, we can see several people gathered at what looks like a conference. Some are taking notes while others are engaged in conversation. It gives the impression of a professional or academic setting.",
+        "Part 3": "On the one hand, studying abroad broadens your horizons and exposes you to new cultures. On the other hand, it can be emotionally challenging to be far from home and adapt to a different educational system.",
+        "Part 4": "Absolutely. I believe that being able to work in a multicultural environment is a crucial skill. It fosters tolerance and enhances problem-solving through diverse perspectives."
+    },
+    "C2": {
+        "Part 1": "Good evening. My name is Martin. I’m a linguistics researcher with a keen interest in how language influences perception. Outside work, I find joy in classical literature and long-distance running.",
+        "Part 2": "This picture captures a moment in what appears to be a policy debate or public consultation. The participants are intensely focused, suggesting a high-stakes discussion, perhaps related to local governance or civic planning.",
+        "Part 3": "While some advocate for strict environmental policies to combat climate change, others argue that such measures might hinder economic growth. A balanced approach is therefore essential.",
+        "Part 4": "Indeed. In today’s globalised world, the ability to articulate ideas persuasively and respectfully across cultures is more important than ever."
+    }
+}

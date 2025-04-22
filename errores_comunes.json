@@ -1,0 +1,44 @@
+{
+    "B1": {
+        "grammar": [
+            "Uso incorrecto del pasado simple (ej. 'He go yesterday').",
+            "Errores con auxiliares (ej. 'She don’t like it')."
+        ],
+        "vocabulary": [
+            "Uso limitado del léxico, repeticiones frecuentes.",
+            "Confusión entre palabras similares como 'fun' y 'funny'."
+        ],
+        "pronunciation": [
+            "Omisión de sonidos finales.",
+            "Pronunciación española de vocales largas."
+        ]
+    },
+    "B2": {
+        "grammar": [
+            "Dificultad con presente perfecto vs pasado simple.",
+            "Errores con condicionales ('If I will go...')."
+        ],
+        "vocabulary": [
+            "Uso de palabras de registro informal en contextos formales.",
+            "Problemas con colocaciones ('do a mistake')."
+        ],
+        "pronunciation": [
+            "Problemas con sonidos como /θ/ ('think') y /ð/ ('this').",
+            "Entonación monótona en respuestas largas."
+        ]
+    },
+    "C1": {
+        "grammar": [
+            "Errores ocasionales con estructuras complejas (voz pasiva, estilo indirecto).",
+            "Uso redundante de conectores ('however but...')."
+        ],
+        "vocabulary": [
+            "Sobreuso de expresiones genéricas ('a lot of', 'things').",
+            "Dificultades para encontrar sinónimos precisos."
+        ],
+        "pronunciation": [
+            "Falta de variación en la entonación para marcar matices.",
+            "Pronunciación inconsistente de terminaciones débiles."
+        ]
+    }
+}

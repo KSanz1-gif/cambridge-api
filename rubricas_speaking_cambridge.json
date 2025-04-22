@@ -1,0 +1,30 @@
+{
+    "B1": {
+        "Grammatical Range and Accuracy": "Usa estructuras básicas con algunos errores. Intenta formas complejas pero con fallos.",
+        "Lexical Resource": "Vocabulario suficiente para temas cotidianos y simples.",
+        "Discourse Management": "Habla a ráfagas. Difícil mantener fluidez en turnos largos.",
+        "Pronunciation": "Entendible con esfuerzo. Influencia clara de la L1.",
+        "Interactive Communication": "Responde preguntas simples pero con vacilaciones. Dificultad para sostener una conversación."
+    },
+    "B2": {
+        "Grammatical Range and Accuracy": "Usa variedad de tiempos verbales y estructuras complejas con cierto control. Algunos errores.",
+        "Lexical Resource": "Buen rango para temas generales. Busca palabras más precisas.",
+        "Discourse Management": "Produce discurso más sostenido. Usa conectores simples.",
+        "Pronunciation": "Generalmente clara, aunque con acento. Errores puntuales que no dificultan la comprensión.",
+        "Interactive Communication": "Responde con mayor seguridad. Participa activamente aunque no siempre desarrolla ideas."
+    },
+    "C1": {
+        "Grammatical Range and Accuracy": "Usa estructuras complejas de forma precisa. Errores poco frecuentes.",
+        "Lexical Resource": "Léxico amplio y preciso. Capacidad para matizar ideas y evitar repeticiones.",
+        "Discourse Management": "Fluidez natural. Uso variado de conectores. Coherencia en la argumentación.",
+        "Pronunciation": "Clara y generalmente natural. Acento leve no interfiere. Buen control del ritmo y entonación.",
+        "Interactive Communication": "Interactúa con soltura. Coopera en la conversación, reacciona adecuadamente."
+    },
+    "C2": {
+        "Grammatical Range and Accuracy": "Control total de estructuras complejas. Gran precisión y corrección gramatical.",
+        "Lexical Resource": "Riqueza léxica sobresaliente. Uso preciso, matizado y sofisticado del vocabulario.",
+        "Discourse Management": "Discurso fluido, estructurado y elegante. Excelente control del ritmo y coherencia.",
+        "Pronunciation": "Pronunciación precisa, entonación natural, control expresivo excelente. Muy cerca de nativo.",
+        "Interactive Communication": "Participación fluida, natural, toma y cede turnos con gran habilidad. Reacciona con rapidez y flexibilidad."
+    }
+}

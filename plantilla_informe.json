@@ -1,0 +1,22 @@
+{
+    "estructura": {
+        "nombre_estudiante": "",
+        "nivel_simulado": "",
+        "fecha": "",
+        "puntuacion_estimativa": {
+            "Grammatical Range and Accuracy": "",
+            "Lexical Resource": "",
+            "Discourse Management": "",
+            "Pronunciation": "",
+            "Interactive Communication": ""
+        },
+        "errores_detectados": {
+            "grammar": [],
+            "vocabulary": [],
+            "pronunciation": []
+        },
+        "comentario_general": "",
+        "recomendaciones": []
+    },
+    "notas_para_docente": "Este documento es una plantilla estructurada. Puede ser completado automáticamente tras la transcripción de una respuesta oral o manualmente por el profesor. Está pensada para generar informes individualizados en formato PDF o DOCX."
+}
